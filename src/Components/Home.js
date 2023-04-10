@@ -12,13 +12,54 @@ function Home() {
         <div className='home__row'>
         <Product 
         id='12321341'
-        title='The Lean Startup: How Constant Inovation Creates Radically Successful Business Paperback'
-        price={15.50}
+        title='Apple 2021 10.2-inch iPad (Wi-Fi, 64GB) - Space Gray (9th Generation)'
+        price={799.00}
         rating={5}
-        image='https://images-na.ssl-images-amazon.com/images/I/51Zymoq7UnL._SX325_B01,204,203,200_.jpg'
+        image='https://m.media-amazon.com/images/I/61NGnpjoRDL._AC_UL320_.jpg'
+        />
+        <Product 
+        id='98765432'
+        title='Lenovo 2022 Newest Ideapad 3 Laptop, 15.6" HD Touchscreen, 11th Gen Intel Core i3-1115G4 Processor, 8GB DDR4 RAM'
+        price={300.}
+        rating={4}
+        image='https://m.media-amazon.com/images/I/61QGMX0Qy6L._AC_UL320_.jpg'
         />
         </div>
 
+        <div className='home__row'>
+        <Product 
+        id='87654321'
+        title='iConnect by Timex Active Smartwatch with Heart Rate, Notifications & Activity Tracking 37mm – Black with Black Resin Strap'
+        price={25.50}
+        rating={4}
+        image='https://m.media-amazon.com/images/I/61ghDjhS8vL._AC_UY218_.jpg'
+        />
+        <Product 
+        id='23456789'
+        title='Degree Men Antiperspirant Deodorant 48-Hour Odor Protection Cool Rush Men'
+        price={11.90}
+        rating={4}
+        image='https://m.media-amazon.com/images/I/81yam08hJVL._AC_UL320_.jpg'
+        />
+        <Product 
+        id='56789012'
+        title='GearLight LED Flashlight 2pack Bright, Zoomable Tactical Flashlights with High Lumens and 5 Modes for Emergency and Outdoor Use, Camping Accessories'
+        price={30.50}
+        rating={3}
+        image='https://m.media-amazon.com/images/I/81FQCYRrv6L._AC_UL320_.jpg'
+        />
+        </div>
+
+        <div className='home__row'>
+        <Product 
+        id='34567890'
+        title='The Lords of Alekka: An Epic Fantasy Adventure (Books 1-3)'
+        price={9.50}
+        rating={5}
+        image='https://m.media-amazon.com/images/I/91IFYwctaDL._AC_UL320_.jpg'
+        />
+        
+        </div>
         
 
 
